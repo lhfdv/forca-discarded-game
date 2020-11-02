@@ -1,0 +1,2 @@
+# forca-discarded-game
+A discard hangman (Forca) game I was planning to use in a full Ruby On Rails website
